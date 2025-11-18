@@ -1,0 +1,5 @@
+{
+  "name": "F3 Workout Generator",
+  "description": "A simple one-click F3 Workout Generator that creates structured, F3-style workouts based on user-selected options. It provides a complete workout plan including a warm-up, main workout, core finisher, and a motivational thought for the Circle of Trust.",
+  "requestFramePermissions": []
+}
